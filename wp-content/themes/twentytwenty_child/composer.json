@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Viscaweb\\": "src/app/"
+    },
+    "files": [
+      "src/app/helpers.php"
+    ]
+  },
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  }
+}
